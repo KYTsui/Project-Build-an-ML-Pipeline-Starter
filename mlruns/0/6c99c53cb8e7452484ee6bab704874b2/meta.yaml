@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ktsui/Project-Build-an-ML-Pipeline-Starter/mlruns/0/6c99c53cb8e7452484ee6bab704874b2/artifacts
+end_time: 1707427581922
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6c99c53cb8e7452484ee6bab704874b2
+run_name: able-mink-553
+run_uuid: 6c99c53cb8e7452484ee6bab704874b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707427580836
+status: 4
+tags: []
+user_id: ktsui

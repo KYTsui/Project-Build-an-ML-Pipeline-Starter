@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ktsui/Project-Build-an-ML-Pipeline-Starter/mlruns/0/bb24e405077447469b79a89d3168a19a/artifacts
+end_time: 1707373758942
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bb24e405077447469b79a89d3168a19a
+run_name: shivering-perch-518
+run_uuid: bb24e405077447469b79a89d3168a19a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707373753866
+status: 4
+tags: []
+user_id: ktsui

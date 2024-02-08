@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ktsui/Project-Build-an-ML-Pipeline-Starter/mlruns/0/123d3986bc1b4ddd9f1b0ed79751c8b9/artifacts
+end_time: 1707427798379
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 123d3986bc1b4ddd9f1b0ed79751c8b9
+run_name: receptive-calf-464
+run_uuid: 123d3986bc1b4ddd9f1b0ed79751c8b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707427756688
+status: 3
+tags: []
+user_id: ktsui

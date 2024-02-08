@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ktsui/Project-Build-an-ML-Pipeline-Starter/mlruns/0/c827ba8da392489db46ab2d9db494249/artifacts
+end_time: 1707429087777
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c827ba8da392489db46ab2d9db494249
+run_name: merciful-fish-358
+run_uuid: c827ba8da392489db46ab2d9db494249
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707429070692
+status: 3
+tags: []
+user_id: ktsui

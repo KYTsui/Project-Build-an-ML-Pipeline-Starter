@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ktsui/Project-Build-an-ML-Pipeline-Starter/mlruns/0/803dcbe13ccb443ea81543b69e959b9f/artifacts
+end_time: 1707379591578
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 803dcbe13ccb443ea81543b69e959b9f
+run_name: languid-hound-43
+run_uuid: 803dcbe13ccb443ea81543b69e959b9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707379586027
+status: 4
+tags: []
+user_id: ktsui

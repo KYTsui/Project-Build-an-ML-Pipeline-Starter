@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ktsui/Project-Build-an-ML-Pipeline-Starter/mlruns/0/4054dd3120fb42e288fb539a7236a6a1/artifacts
+end_time: 1707427756588
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4054dd3120fb42e288fb539a7236a6a1
+run_name: unleashed-toad-433
+run_uuid: 4054dd3120fb42e288fb539a7236a6a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707427658702
+status: 3
+tags: []
+user_id: ktsui

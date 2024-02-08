@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ktsui/Project-Build-an-ML-Pipeline-Starter/mlruns/0/ec362cd59fb14c10ae7bd6f6eaf95ebb/artifacts
+end_time: 1707428987300
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ec362cd59fb14c10ae7bd6f6eaf95ebb
+run_name: auspicious-lynx-965
+run_uuid: ec362cd59fb14c10ae7bd6f6eaf95ebb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707428975471
+status: 3
+tags: []
+user_id: ktsui

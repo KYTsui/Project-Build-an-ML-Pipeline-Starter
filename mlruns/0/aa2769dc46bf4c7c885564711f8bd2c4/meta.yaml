@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ktsui/Project-Build-an-ML-Pipeline-Starter/mlruns/0/aa2769dc46bf4c7c885564711f8bd2c4/artifacts
+end_time: 1707379379193
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aa2769dc46bf4c7c885564711f8bd2c4
+run_name: sassy-duck-659
+run_uuid: aa2769dc46bf4c7c885564711f8bd2c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707379376040
+status: 4
+tags: []
+user_id: ktsui

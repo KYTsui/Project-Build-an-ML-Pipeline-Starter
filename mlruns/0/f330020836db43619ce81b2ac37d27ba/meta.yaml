@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ktsui/Project-Build-an-ML-Pipeline-Starter/mlruns/0/f330020836db43619ce81b2ac37d27ba/artifacts
+end_time: 1707428750129
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f330020836db43619ce81b2ac37d27ba
+run_name: likeable-ox-783
+run_uuid: f330020836db43619ce81b2ac37d27ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707428694195
+status: 4
+tags: []
+user_id: ktsui

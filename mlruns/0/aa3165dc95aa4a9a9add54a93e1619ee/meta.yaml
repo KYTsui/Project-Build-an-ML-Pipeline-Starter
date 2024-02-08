@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ktsui/Project-Build-an-ML-Pipeline-Starter/mlruns/0/aa3165dc95aa4a9a9add54a93e1619ee/artifacts
+end_time: 1707379516205
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aa3165dc95aa4a9a9add54a93e1619ee
+run_name: blushing-shad-976
+run_uuid: aa3165dc95aa4a9a9add54a93e1619ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707379510264
+status: 4
+tags: []
+user_id: ktsui

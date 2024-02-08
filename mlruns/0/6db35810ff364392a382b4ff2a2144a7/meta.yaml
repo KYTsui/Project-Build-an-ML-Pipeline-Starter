@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ktsui/Project-Build-an-ML-Pipeline-Starter/mlruns/0/6db35810ff364392a382b4ff2a2144a7/artifacts
+end_time: 1707376650863
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6db35810ff364392a382b4ff2a2144a7
+run_name: grandiose-fawn-318
+run_uuid: 6db35810ff364392a382b4ff2a2144a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707376645697
+status: 4
+tags: []
+user_id: ktsui

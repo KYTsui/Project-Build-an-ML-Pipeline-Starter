@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ktsui/Project-Build-an-ML-Pipeline-Starter/mlruns/0/867dcf1d146645b39d52c979784e2698/artifacts
+end_time: 1707389745603
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 867dcf1d146645b39d52c979784e2698
+run_name: skittish-goose-725
+run_uuid: 867dcf1d146645b39d52c979784e2698
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707389730746
+status: 3
+tags: []
+user_id: ktsui

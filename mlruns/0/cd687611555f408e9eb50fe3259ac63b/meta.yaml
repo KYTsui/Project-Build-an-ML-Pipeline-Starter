@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ktsui/Project-Build-an-ML-Pipeline-Starter/mlruns/0/cd687611555f408e9eb50fe3259ac63b/artifacts
+end_time: 1707376410762
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cd687611555f408e9eb50fe3259ac63b
+run_name: smiling-sheep-513
+run_uuid: cd687611555f408e9eb50fe3259ac63b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707376405738
+status: 4
+tags: []
+user_id: ktsui

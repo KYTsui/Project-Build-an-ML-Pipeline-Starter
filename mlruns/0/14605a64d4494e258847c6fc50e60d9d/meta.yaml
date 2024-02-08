@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ktsui/Project-Build-an-ML-Pipeline-Starter/mlruns/0/14605a64d4494e258847c6fc50e60d9d/artifacts
+end_time: 1707376556682
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 14605a64d4494e258847c6fc50e60d9d
+run_name: amusing-deer-247
+run_uuid: 14605a64d4494e258847c6fc50e60d9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707376551473
+status: 4
+tags: []
+user_id: ktsui

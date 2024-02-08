@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ktsui/Project-Build-an-ML-Pipeline-Starter/mlruns/0/4825a884c00e46f7bb4f5a64364c3af9/artifacts
+end_time: 1707390305923
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4825a884c00e46f7bb4f5a64364c3af9
+run_name: respected-cub-611
+run_uuid: 4825a884c00e46f7bb4f5a64364c3af9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707390297929
+status: 3
+tags: []
+user_id: ktsui

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ktsui/Project-Build-an-ML-Pipeline-Starter/mlruns/0/2ebe038b83a44781aa32becdf21c5414/artifacts
+end_time: 1707389745452
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2ebe038b83a44781aa32becdf21c5414
+run_name: casual-midge-66
+run_uuid: 2ebe038b83a44781aa32becdf21c5414
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707389733124
+status: 3
+tags: []
+user_id: ktsui

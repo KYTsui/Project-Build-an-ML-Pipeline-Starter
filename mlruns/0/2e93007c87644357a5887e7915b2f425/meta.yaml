@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ktsui/Project-Build-an-ML-Pipeline-Starter/mlruns/0/2e93007c87644357a5887e7915b2f425/artifacts
+end_time: 1707374025780
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2e93007c87644357a5887e7915b2f425
+run_name: calm-mare-963
+run_uuid: 2e93007c87644357a5887e7915b2f425
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707374020649
+status: 4
+tags: []
+user_id: ktsui

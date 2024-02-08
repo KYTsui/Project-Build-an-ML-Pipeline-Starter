@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ktsui/Project-Build-an-ML-Pipeline-Starter/mlruns/687021241546135512/4c752ed19dc94d1b97c2f0265d0d4e07/artifacts
+end_time: 1707372088667
+entry_point_name: ''
+experiment_id: '687021241546135512'
+lifecycle_stage: active
+run_id: 4c752ed19dc94d1b97c2f0265d0d4e07
+run_name: grandiose-ray-641
+run_uuid: 4c752ed19dc94d1b97c2f0265d0d4e07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707372083474
+status: 4
+tags: []
+user_id: ktsui

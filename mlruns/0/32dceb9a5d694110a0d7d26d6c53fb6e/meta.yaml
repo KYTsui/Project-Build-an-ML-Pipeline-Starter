@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ktsui/Project-Build-an-ML-Pipeline-Starter/mlruns/0/32dceb9a5d694110a0d7d26d6c53fb6e/artifacts
+end_time: 1707372307537
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 32dceb9a5d694110a0d7d26d6c53fb6e
+run_name: zealous-sheep-167
+run_uuid: 32dceb9a5d694110a0d7d26d6c53fb6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707372302459
+status: 4
+tags: []
+user_id: ktsui

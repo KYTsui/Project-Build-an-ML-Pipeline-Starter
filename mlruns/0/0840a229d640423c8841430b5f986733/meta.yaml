@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ktsui/Project-Build-an-ML-Pipeline-Starter/mlruns/0/0840a229d640423c8841430b5f986733/artifacts
+end_time: 1707372730363
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0840a229d640423c8841430b5f986733
+run_name: bedecked-squid-937
+run_uuid: 0840a229d640423c8841430b5f986733
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707372725166
+status: 4
+tags: []
+user_id: ktsui

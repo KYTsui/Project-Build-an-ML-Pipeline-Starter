@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ktsui/Project-Build-an-ML-Pipeline-Starter/mlruns/0/24423f70402349f480f04eee01841bf8/artifacts
+end_time: 1707388638354
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 24423f70402349f480f04eee01841bf8
+run_name: bedecked-gnat-80
+run_uuid: 24423f70402349f480f04eee01841bf8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707388550415
+status: 3
+tags: []
+user_id: ktsui

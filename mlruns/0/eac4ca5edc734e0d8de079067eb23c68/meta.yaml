@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ktsui/Project-Build-an-ML-Pipeline-Starter/mlruns/0/eac4ca5edc734e0d8de079067eb23c68/artifacts
+end_time: 1707377479892
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eac4ca5edc734e0d8de079067eb23c68
+run_name: entertaining-pug-625
+run_uuid: eac4ca5edc734e0d8de079067eb23c68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707377474719
+status: 4
+tags: []
+user_id: ktsui

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ktsui/Project-Build-an-ML-Pipeline-Starter/mlruns/0/94507d9ced5646278bca6efa4aabf81a/artifacts
+end_time: 1707427873450
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 94507d9ced5646278bca6efa4aabf81a
+run_name: caring-loon-144
+run_uuid: 94507d9ced5646278bca6efa4aabf81a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707427832323
+status: 3
+tags: []
+user_id: ktsui

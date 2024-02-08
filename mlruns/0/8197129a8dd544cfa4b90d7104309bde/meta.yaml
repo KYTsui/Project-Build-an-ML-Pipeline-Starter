@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ktsui/Project-Build-an-ML-Pipeline-Starter/mlruns/0/8197129a8dd544cfa4b90d7104309bde/artifacts
+end_time: 1707388638522
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8197129a8dd544cfa4b90d7104309bde
+run_name: abundant-robin-676
+run_uuid: 8197129a8dd544cfa4b90d7104309bde
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707388500929
+status: 3
+tags: []
+user_id: ktsui

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ktsui/Project-Build-an-ML-Pipeline-Starter/mlruns/0/f92c6a06c73044409d49770ab05d8adb/artifacts
+end_time: 1707376383367
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f92c6a06c73044409d49770ab05d8adb
+run_name: righteous-gnat-871
+run_uuid: f92c6a06c73044409d49770ab05d8adb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707376378205
+status: 4
+tags: []
+user_id: ktsui

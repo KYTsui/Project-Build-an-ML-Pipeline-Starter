@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ktsui/Project-Build-an-ML-Pipeline-Starter/mlruns/0/399dac2d8fea4d4d8f8bcf39fec44a92/artifacts
+end_time: 1707373588268
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 399dac2d8fea4d4d8f8bcf39fec44a92
+run_name: powerful-elk-426
+run_uuid: 399dac2d8fea4d4d8f8bcf39fec44a92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707373583184
+status: 4
+tags: []
+user_id: ktsui

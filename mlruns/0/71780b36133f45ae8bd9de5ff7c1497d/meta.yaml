@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ktsui/Project-Build-an-ML-Pipeline-Starter/mlruns/0/71780b36133f45ae8bd9de5ff7c1497d/artifacts
+end_time: 1707379610997
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 71780b36133f45ae8bd9de5ff7c1497d
+run_name: defiant-finch-932
+run_uuid: 71780b36133f45ae8bd9de5ff7c1497d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707379605947
+status: 4
+tags: []
+user_id: ktsui

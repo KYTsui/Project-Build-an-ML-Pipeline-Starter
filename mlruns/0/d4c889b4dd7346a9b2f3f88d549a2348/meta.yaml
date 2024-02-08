@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ktsui/Project-Build-an-ML-Pipeline-Starter/mlruns/0/d4c889b4dd7346a9b2f3f88d549a2348/artifacts
+end_time: 1707376613172
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d4c889b4dd7346a9b2f3f88d549a2348
+run_name: puzzled-pig-934
+run_uuid: d4c889b4dd7346a9b2f3f88d549a2348
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707376608155
+status: 4
+tags: []
+user_id: ktsui

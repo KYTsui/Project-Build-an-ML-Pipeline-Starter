@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ktsui/Project-Build-an-ML-Pipeline-Starter/mlruns/0/35995c9679034f97af95ee2756c92226/artifacts
+end_time: 1707425506760
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 35995c9679034f97af95ee2756c92226
+run_name: aged-midge-485
+run_uuid: 35995c9679034f97af95ee2756c92226
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707425400530
+status: 3
+tags: []
+user_id: ktsui

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ktsui/Project-Build-an-ML-Pipeline-Starter/mlruns/0/f46da007d5364bc486a6125bc3a7a245/artifacts
+end_time: 1707376995459
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f46da007d5364bc486a6125bc3a7a245
+run_name: ambitious-zebra-982
+run_uuid: f46da007d5364bc486a6125bc3a7a245
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707376990303
+status: 4
+tags: []
+user_id: ktsui

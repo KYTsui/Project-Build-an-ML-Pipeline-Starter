@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ktsui/Project-Build-an-ML-Pipeline-Starter/mlruns/0/b9aa6f0b0db94f1d84b7f582217426a2/artifacts
+end_time: 1707372473888
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b9aa6f0b0db94f1d84b7f582217426a2
+run_name: redolent-shrike-554
+run_uuid: b9aa6f0b0db94f1d84b7f582217426a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707372468614
+status: 4
+tags: []
+user_id: ktsui

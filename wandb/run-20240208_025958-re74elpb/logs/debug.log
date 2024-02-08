@@ -1,0 +1,28 @@
+2024-02-08 02:59:58,945 INFO    MainThread:44968 [wandb_setup.py:_flush():68] Configure stats pid to 44968
+2024-02-08 02:59:58,945 INFO    MainThread:44968 [wandb_setup.py:_flush():68] Loading settings from C:\Users\ktsui\.config\wandb\settings
+2024-02-08 02:59:58,945 INFO    MainThread:44968 [wandb_setup.py:_flush():68] Loading settings from C:\Users\ktsui\Project-Build-an-ML-Pipeline-Starter\wandb\settings
+2024-02-08 02:59:58,945 INFO    MainThread:44968 [wandb_setup.py:_flush():68] Loading settings from environment variables: {'_require_service': 'True'}
+2024-02-08 02:59:58,945 INFO    MainThread:44968 [wandb_setup.py:_flush():68] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2024-02-08 02:59:58,946 INFO    MainThread:44968 [wandb_init.py:_log_setup():478] Logging user logs to C:\Users\ktsui\Project-Build-an-ML-Pipeline-Starter\wandb\run-20240208_025958-re74elpb\logs\debug.log
+2024-02-08 02:59:58,946 INFO    MainThread:44968 [wandb_init.py:_log_setup():479] Logging internal logs to C:\Users\ktsui\Project-Build-an-ML-Pipeline-Starter\wandb\run-20240208_025958-re74elpb\logs\debug-internal.log
+2024-02-08 02:59:58,946 INFO    MainThread:44968 [wandb_init.py:_jupyter_setup():428] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x000001DE528C7FA0>
+2024-02-08 02:59:58,946 INFO    MainThread:44968 [wandb_init.py:init():518] calling init triggers
+2024-02-08 02:59:58,946 INFO    MainThread:44968 [wandb_init.py:init():521] wandb.init called with sweep_config: {}
+config: {}
+2024-02-08 02:59:58,946 INFO    MainThread:44968 [wandb_init.py:init():571] starting backend
+2024-02-08 02:59:58,946 INFO    MainThread:44968 [wandb_init.py:init():575] setting up manager
+2024-02-08 02:59:58,951 INFO    MainThread:44968 [backend.py:_multiprocessing_setup():106] multiprocessing start_methods=spawn, using: spawn
+2024-02-08 02:59:58,957 INFO    MainThread:44968 [wandb_init.py:init():582] backend started and connected
+2024-02-08 02:59:58,964 INFO    MainThread:44968 [wandb_run.py:_label_probe_notebook():1202] probe notebook
+2024-02-08 02:59:58,964 INFO    MainThread:44968 [wandb_init.py:init():670] updated telemetry
+2024-02-08 02:59:59,002 INFO    MainThread:44968 [wandb_init.py:init():710] communicating run to backend with 60.0 second timeout
+2024-02-08 03:00:02,069 WARNING MsgRouterThr:44968 [router.py:message_loop():77] message_loop has been closed
+2024-02-08 03:00:04,060 ERROR   MainThread:44968 [wandb_init.py:init():1135] error
+Traceback (most recent call last):
+  File "C:\Users\ktsui\anaconda3\envs\nyc_airbnb_dev\lib\site-packages\wandb\sdk\wandb_init.py", line 1108, in init
+    run = wi.init()
+  File "C:\Users\ktsui\anaconda3\envs\nyc_airbnb_dev\lib\site-packages\wandb\sdk\wandb_init.py", line 713, in init
+    result = run_init_handle.wait(
+  File "C:\Users\ktsui\anaconda3\envs\nyc_airbnb_dev\lib\site-packages\wandb\sdk\lib\mailbox.py", line 271, in wait
+    raise MailboxError("transport failed")
+wandb.errors.MailboxError: transport failed

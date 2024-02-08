@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ktsui/Project-Build-an-ML-Pipeline-Starter/mlruns/0/cff5d31c368e4a6aad82d3c2c87a1ebb/artifacts
+end_time: 1707372974955
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cff5d31c368e4a6aad82d3c2c87a1ebb
+run_name: spiffy-shoat-883
+run_uuid: cff5d31c368e4a6aad82d3c2c87a1ebb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707372969945
+status: 4
+tags: []
+user_id: ktsui

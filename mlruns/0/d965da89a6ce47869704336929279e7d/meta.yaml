@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ktsui/Project-Build-an-ML-Pipeline-Starter/mlruns/0/d965da89a6ce47869704336929279e7d/artifacts
+end_time: 1707374012271
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d965da89a6ce47869704336929279e7d
+run_name: handsome-moose-57
+run_uuid: d965da89a6ce47869704336929279e7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707374007057
+status: 4
+tags: []
+user_id: ktsui

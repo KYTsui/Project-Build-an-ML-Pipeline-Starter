@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ktsui/Project-Build-an-ML-Pipeline-Starter/mlruns/0/3078e72f8dd74df7b00728c2ea5af745/artifacts
+end_time: 1707376509677
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3078e72f8dd74df7b00728c2ea5af745
+run_name: powerful-ape-793
+run_uuid: 3078e72f8dd74df7b00728c2ea5af745
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707376504548
+status: 4
+tags: []
+user_id: ktsui

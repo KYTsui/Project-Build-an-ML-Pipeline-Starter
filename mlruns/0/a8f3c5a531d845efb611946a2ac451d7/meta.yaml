@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ktsui/Project-Build-an-ML-Pipeline-Starter/mlruns/0/a8f3c5a531d845efb611946a2ac451d7/artifacts
+end_time: 1707376708420
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a8f3c5a531d845efb611946a2ac451d7
+run_name: masked-goose-425
+run_uuid: a8f3c5a531d845efb611946a2ac451d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707376703206
+status: 4
+tags: []
+user_id: ktsui
